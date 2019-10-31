@@ -1,5 +1,5 @@
 # AULA 2
-#Variáveis e tipos de dados
+# Variáveis e tipos de dados
 
 A aula 2 é uma introdução as variáveis e tipos de dados no Js
 
@@ -17,7 +17,7 @@ A aula 2 é uma introdução as variáveis e tipos de dados no Js
 - null (ex.: nenhum valor)
 - undefined (ex.: ausência de valor)
 
-- **object {}** - objeto tem propriedades e metodos (as propriedades são coisas referentes ao objeto pessoa por exemplo)
+# **object {}** - objeto tem propriedades e metodos (as propriedades são coisas referentes ao objeto pessoa por exemplo)
 
 - Notação: var pessoa = {}
 
@@ -28,7 +28,7 @@ A aula 2 é uma introdução as variáveis e tipos de dados no Js
 - posso sobreescrever os valores (ex.: pessoa.altura = 1.87)
 
 
-- **array []** - uma lista de valores
+# **array []** - uma lista de valores
 
 - Notação: var numero = []
 
