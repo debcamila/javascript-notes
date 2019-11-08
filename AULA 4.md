@@ -8,7 +8,7 @@ A aula 4 é uma introdução sobre os operadores de igual e relacionais
 - == Igual a
 - != Diferente de 
 
-- Exemplos:
+# Exemplos:
 - 1 == 1 true
 - var x = 0 , x == 0 true
 
@@ -19,13 +19,13 @@ A aula 4 é uma introdução sobre os operadores de igual e relacionais
 
 ----
 
-- Operadores que testam o tipo do dado:
+# Operadores que testam o tipo do dado:
 - === Igual a, e do mesmo tipo
 - !== Diferente, mas do mesmo tipo
 
 ----
 
-- Operadores de igualdade / relacionais:
+# Operadores de igualdade / relacionais:
 - Maior que > 
 - Menor que <
 - Maior ou igual a >=
